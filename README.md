@@ -10,47 +10,18 @@ A simple bash script with the following behavior:
 
 Script guessinggame.sh contains -----lines
 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Features
-
-- Choose Files
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/trelandon1/guessing-game
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd guessing-game
 ```
 
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
